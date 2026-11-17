@@ -89,24 +89,11 @@ Build the KVL and KCL circuits in Proteus using the same resistor values and sup
 ## OBSERVATION AND TABULATION
 
 ### A. KVL – Voltage measurements
+<img width="1600" height="732" alt="be2" src="https://github.com/user-attachments/assets/4feb97bd-ceed-4f28-b817-cf671d2730b1" />
 
-| S. No. | Supply voltage Vs (V) | VR1 (V) | VR2 (V) | VR3 (V) | VR1 + VR2 + VR3 (V) |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
+### B. KCL - Voltage measurements
+<img width="1280" height="678" alt="be8" src="https://github.com/user-attachments/assets/6c760bc9-4f3f-4677-a29d-a275f8e13fdb" />
 
-### B. KCL – Current measurements
-
-| S. No. | Supply voltage Vs (V) | Total current It (A) | Branch current I1 (A) | Branch current I2 (A) | Branch current I3 (A) | I1 + I2 + I3 (A) |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | | | | | | |
-| 2 | | | | | | |
-| 3 | | | | | | |
-| 4 | | | | | | |
-| 5 | | | | | | |
 
 ## CALCULATIONS
 
